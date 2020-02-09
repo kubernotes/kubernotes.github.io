@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{207:function(n,t,e){"use strict";e.r(t);var i={data:function(){return{}}},s=e(0),u=Object(s.a)(i,(function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("Basic Knowledge PPT")])}),[],!1,null,null,null);t.default=u.exports}}]);
